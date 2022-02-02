@@ -15,18 +15,22 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=plastic&logo=Java&logoColor=FFA518)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=python)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=plastic&logo=kotlin)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=plastic&logo=javascript)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=plastic&logo=mysql)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=plastic&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=plastic&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=plastic&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git)&nbsp;
-![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-05122A?style=plastic&logo=androidstudio)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=plastic&logo=github)&nbsp;
+![Java](https://img.shields.io/badge/-Java-000231?style=plastic&logo=Java&logoColor=orange)&nbsp;
+![Python](https://img.shields.io/badge/-Python-000231?style=plastic&logo=python)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-000231?style=plastic&logo=kotlin)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000231?style=plastic&logo=javascript)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-000231?style=plastic&logo=mysql)&nbsp;
+![C](https://img.shields.io/badge/-C-000231?style=plastic&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-000231?style=plastic&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-000231?style=plastic&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-000231?style=plastic&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-000231?style=plastic&logo=git)&nbsp;
+![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-000231?style=plastic&logo=androidstudio)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-000231?style=plastic&logo=github)&nbsp;
+
+<!--
+### ⚙️ &nbsp;GitHub Analytics
+-->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
