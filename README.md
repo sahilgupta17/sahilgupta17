@@ -1,6 +1,7 @@
-<!--
-### 👋 Hey There!
 
+### 👋 Hey There!
+![](https://komarev.com/ghpvc/?username=sahilgupta17&color=blue&label=Profile+Views)
+<!--
 **sahilgupta17/sahilgupta17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### 👨🏻‍💻 &nbsp;About Me
@@ -15,18 +16,18 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-000231?style=plastic&logo=Java&logoColor=orange)&nbsp;
-![Python](https://img.shields.io/badge/-Python-000231?style=plastic&logo=python)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-000231?style=plastic&logo=kotlin)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000231?style=plastic&logo=javascript)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-000231?style=plastic&logo=mysql)&nbsp;
-![C](https://img.shields.io/badge/-C-000231?style=plastic&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-000231?style=plastic&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-000231?style=plastic&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-000231?style=plastic&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-000231?style=plastic&logo=git)&nbsp;
-![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-000231?style=plastic&logo=androidstudio)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-000231?style=plastic&logo=github)&nbsp;
+![Java](https://img.shields.io/badge/-Java-000231?style=flat&logo=Java&logoColor=orange)&nbsp;
+![Python](https://img.shields.io/badge/-Python-000231?style=flat&logo=python)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-000231?style=flat&logo=kotlin)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000231?style=flat&logo=javascript)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-000231?style=flat&logo=mysql)&nbsp;
+![C](https://img.shields.io/badge/-C-000231?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-000231?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-000231?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-000231?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-000231?style=flat&logo=git)&nbsp;
+![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-000231?style=flat&logo=androidstudio)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-000231?style=flat&logo=github)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -40,7 +41,20 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/sahilgupta17"><img src="https://img.shields.io/badge/-Sahil%20Gupta-0077B5?style=plastic&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:gsahil2000.14@gmail.com"><img src="https://img.shields.io/badge/-gsahil2000.14@gmail.com-b02525?style=plastic&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/sahilgupta_17"><img src="https://img.shields.io/badge/-@sahilgupta__17-8a3ab9?style=plastic&logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sahilgupta17"><img src="https://img.shields.io/badge/-sahilgupta17-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:gsahil2000.14@gmail.com"><img src="https://img.shields.io/badge/-gsahil2000.14@gmail.com-b02525?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/sahilgupta_17"><img src="https://img.shields.io/badge/-@sahilgupta__17-8a3ab9?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
+
+<!-- <a href="https://www.linkedin.com/in/gourav-rusiya-52973b73/">
+    <img align="left" alt="G R | Linkedin" width="24px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Linkedin.svg" />
+  </a>
+  <a href="https://twitter.com/GRusiya">
+    <img align="left" alt="G R | Twitter" width="26px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/sahilgupta_17/">
+    <img align="left" alt="G R | Instagram" width="24px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Instagram.svg" />
+  </a>
+  <a href="mailto:gouravrusiya.lnct@gmail.com">
+    <img align="left" alt="G R | Gmail" width="26px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Gmail.svg" />
+  </a> -->
