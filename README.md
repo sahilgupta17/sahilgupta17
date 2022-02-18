@@ -15,18 +15,19 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-000231?style=flat&logo=Java&logoColor=orange)&nbsp;
-![Python](https://img.shields.io/badge/-Python-000231?style=flat&logo=python)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-000231?style=flat&logo=kotlin)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000231?style=flat&logo=javascript)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-000231?style=flat&logo=mysql)&nbsp;
-![C](https://img.shields.io/badge/-C-000231?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-000231?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-000231?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-000231?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-000231?style=flat&logo=git)&nbsp;
-![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-000231?style=flat&logo=androidstudio)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-000231?style=flat&logo=github)&nbsp;
+![Java](https://img.shields.io/badge/-Java-e32802?style=flat&logo=Java&logoColor=orange&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/-node-dot-js-339933?style=flat&logo=node-dot-js&logoColor=white)&nbsp;
+![ExpressJS](https://img.shields.io/badge/-express-4479A1?style=flat&logo=express&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/-C-000231?style=flat&logo=C&logoColor=A8B9CC&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/-C++-000231?style=flat&logo=C%2B%2B&logoColor=00599C&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=1572B6&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
+![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -44,16 +45,3 @@
 <a href="mailto:gsahil2000.14@gmail.com"><img src="https://img.shields.io/badge/-gsahil2000.14@gmail.com-b02525?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/sahilgupta_17"><img src="https://img.shields.io/badge/-@sahilgupta__17-8a3ab9?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-
-<!-- <a href="https://www.linkedin.com/in/gourav-rusiya-52973b73/">
-    <img align="left" alt="G R | Linkedin" width="24px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="https://twitter.com/GRusiya">
-    <img align="left" alt="G R | Twitter" width="26px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/sahilgupta_17/">
-    <img align="left" alt="G R | Instagram" width="24px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Instagram.svg" />
-  </a>
-  <a href="mailto:gouravrusiya.lnct@gmail.com">
-    <img align="left" alt="G R | Gmail" width="26px" src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/Gmail.svg" />
-  </a> -->
