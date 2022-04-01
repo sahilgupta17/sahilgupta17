@@ -6,12 +6,12 @@
 -->
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on some cool stuff. Stay tuned...
-- 🎓 Computer Science junior at University of Massachusetts Amherest, USA
-- 👯 I’m looking to collaborate on Machine Learning, Web and Mobile App Development projects.
-- 💬 Feel free to reach me out for project collabortions, internship  and job opportunities or just to talk
-- 📫 You can email with at sahgupta@umass.edu
-- ⚡ Hobbies: Love reading books with a cup of coffee, play Badminton and try out new food
+🔭 I’m currently working on some cool stuff. Stay tuned...
+🎓 Computer Science junior at University of Massachusetts Amherest, USA
+👯 I’m looking to collaborate on Machine Learning, Web and Mobile App Development projects.
+💬 Feel free to reach me out for project collabortions, internship  and job opportunities or just to talk
+📫 You can email with at sahgupta@umass.edu
+⚡ Hobbies: Love reading books with a cup of coffee, play Badminton and try out new food
 
 ### 🛠 &nbsp;Tech Stack
 
