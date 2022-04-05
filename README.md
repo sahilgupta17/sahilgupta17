@@ -1,6 +1,6 @@
 
 ### 👋 Hey There!
-![](https://komarev.com/ghpvc/?username=sahilgupta17&color=blue&label=Profile+Views)
+<!-- ![](https://komarev.com/ghpvc/?username=sahilgupta17&color=blue&label=Profile+Views) -->
 <!--
 **sahilgupta17/sahilgupta17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
