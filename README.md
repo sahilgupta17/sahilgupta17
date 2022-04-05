@@ -27,7 +27,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=1572B6&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
-![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)&nbsp;
+![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-3FA037?style=flat&logo=androidstudio&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
