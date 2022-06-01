@@ -29,6 +29,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=1572B6&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-3FA037?style=flat&logo=androidstudio&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
