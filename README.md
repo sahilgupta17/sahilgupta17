@@ -1,34 +1,36 @@
 
 ### 👋 Hey There!
-<!-- ![](https://komarev.com/ghpvc/?username=sahilgupta17&color=blue&label=Profile+Views) -->
-<!--
-**sahilgupta17/sahilgupta17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 🔭 I’m currently working on some cool stuff. Stay tuned...<br />
-🎓 Computer Science junior at University of Massachusetts Amherest, USA<br />
+🎓 Computer Science senior at University of Massachusetts Amherest, USA<br />
 👯 I’m looking to collaborate on Machine Learning, Web and Mobile App Development projects.<br />
-💬 Feel free to reach me out for project collabortions, internship  and job opportunities or just to talk<br />
+💬 Feel free to reach me out for project collabortions, internship  and job opportunities<br />
 📫 You can email with at sahgupta@umass.edu<br />
-⚡ Hobbies: Love reading books with a cup of coffee, play Badminton and try out new food<br />
+⚡ Hobbies: Badminton<br />
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-e32802?style=flat&logo=Java&logoColor=orange&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-61dbfb?style=flat&logo=react&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-76B900?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-3FA037?style=flat&logo=mongodb&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/-C++-5E97D0?style=flat&logo=C%2B%2B&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=1572B6&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-3FA037?style=flat&logo=androidstudio&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
