@@ -31,6 +31,7 @@
 ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-3FA037?style=flat&logo=androidstudio&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-FFCA28?style=flat&logo=linux&logoColor=black)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
