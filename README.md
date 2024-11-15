@@ -4,11 +4,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🔭 I’m currently working on some cool stuff. Stay tuned...<br />
-🎓 Computer Science senior at University of Massachusetts Amherest, USA<br />
-👯 I’m looking to collaborate on Machine Learning, Web and Mobile App Development projects.<br />
-💬 Feel free to reach me out for project collabortions, internship  and job opportunities<br />
+🎓 MS Computer Science at University of Massachusetts Amherest, USA<br />
+👯 I’m looking to collaborate on Machine Learning, GenAI and Software Engineering projects.<br />
+💬 Feel free to reach me out for project collabortions<br />
 📫 You can email with at sahgupta@umass.edu<br />
-⚡ Hobbies: Badminton<br />
+⚡ Hobbies: Playing Badminton, Listening to podcasts, reading books, playing the piano, working out at the gym<br />
 
 ### 🛠 &nbsp;Tech Stack
 Languages: 
