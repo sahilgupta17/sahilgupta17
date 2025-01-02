@@ -8,7 +8,6 @@
 👯 I’m looking to collaborate on Machine Learning, GenAI and Software Engineering projects.<br />
 💬 Feel free to reach me out for project collabortions<br />
 📫 You can email with at sahgupta@umass.edu<br />
-⚡ Hobbies: reading books, listening to podcasts, investing, playing Badminton, working out at the gym, playing the piano<br />
 
 ### 🛠 &nbsp;Tech Stack
 Languages: 
